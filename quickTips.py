@@ -10,7 +10,18 @@ cooking_tips = [
     "Prep all your ingredients before you start cooking.",
     "Keep your herbs fresh by storing them properly.",
     "Learn to use and respect the power of fresh spices.",
-    "Invest in good quality pots and pans."
+    "Invest in good quality pots and pans.",
+    "Always taste your dishes before serving to adjust seasoning.",
+    "Clean as you go to keep your workspace uncluttered and manageable.",
+    "Use a thermometer to ensure meats are cooked safely to the correct temperatures.",
+    "Let meats rest after cooking to allow juices to redistribute and ensure moistness.",
+    "Don't be afraid to experiment with new ingredients and recipes.",
+    "Learn to make a few basic sauces to elevate your dishes.",
+    "Use the right cooking method for the ingredients you are using.",
+    "Don't overcrowd your pans to ensure proper cooking and browning.",
+    "Learn to properly season your dishes to bring out the best flavors.",
+    "Use fresh, seasonal ingredients for the best results.",
+    "Learn to properly store and freeze leftovers to reduce waste."
 ]
 
 @app.route('/daily_tip')
